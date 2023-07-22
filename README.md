@@ -1,2 +1,2 @@
 # Natue
-Natue server
+Natue的Github仓库
